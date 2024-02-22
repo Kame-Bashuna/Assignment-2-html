@@ -1,0 +1,8 @@
+#container1{
+    border: dotted 10px black;
+}
+#container2{
+    margin: 5%;
+    padding: 20px;
+    border: solid 10px cornflowerblue;
+}
